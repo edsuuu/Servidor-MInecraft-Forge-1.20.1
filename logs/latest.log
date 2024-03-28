@@ -2216,3 +2216,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'silentgems:jade_ore'
 [28Mar2024 15:36:55.978] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
 [28Mar2024 15:39:08.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizacosx has made the advancement [Disme A Dozen]
 [28Mar2024 15:39:17.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizacosx has made the advancement [Sweet Dreams]
+[28Mar2024 15:47:44.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizacosx has made the advancement [How'd You Get This?]
+[28Mar2024 15:48:32.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizacosx has made the advancement [Take Aim]
+[28Mar2024 15:49:07.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizacosx has made the advancement [Stone Age]
+[28Mar2024 15:50:41.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wN1212[/187.95.221.126:55609] logged in with entity id 15490 at (842.1601550774562, 140.0, 60.65374179828979)
+[28Mar2024 15:50:41.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wN1212 joined the game
+[28Mar2024 15:50:41.798] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
+[28Mar2024 15:57:07.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lizacosx lost connection: Disconnected
+[28Mar2024 15:57:07.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizacosx left the game
+[28Mar2024 16:01:55.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Mar2024 16:01:55.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Mar2024 16:01:55.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Mar2024 16:01:55.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 lost connection: Disconnected
+[28Mar2024 16:01:55.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wN1212 left the game
+[28Mar2024 16:01:55.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Mar2024 16:01:56.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/minecraft:overworld
+[28Mar2024 16:01:57.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/minecraft:the_end
+[28Mar2024 16:01:57.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/allthemodium:the_beyond
+[28Mar2024 16:01:57.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/minecraft:the_nether
+[28Mar2024 16:01:57.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/allthemodium:the_other
+[28Mar2024 16:01:57.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/allthemodium:mining
+[28Mar2024 16:01:57.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/mining_dimension:mining
+[28Mar2024 16:01:57.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/ae2:spatial_storage
+[28Mar2024 16:01:57.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Mapa-Mods): All chunks are saved
+[28Mar2024 16:01:57.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Mar2024 16:01:57.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[28Mar2024 16:01:57.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Mar2024 16:01:57.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[28Mar2024 16:01:57.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[28Mar2024 16:01:57.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[28Mar2024 16:01:57.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[28Mar2024 16:01:57.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Mar2024 16:01:57.538] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Unloading EnderChest Data
+[28Mar2024 16:01:57.539] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Finished Unloading EnderChest Data
+[28Mar2024 16:01:57.545] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[28Mar2024 16:01:57.554] [Server thread/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 1 block entries, 0 item entries

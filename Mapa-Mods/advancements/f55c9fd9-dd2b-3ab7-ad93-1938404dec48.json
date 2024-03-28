@@ -67,10 +67,14 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "highland": "2024-03-28 15:50:10 +0000",
+      "jade_cliffs": "2024-03-28 15:46:40 +0000",
       "field": "2024-03-28 15:42:58 +0000",
       "coniferous_forest": "2024-03-28 15:00:32 +0000",
       "forested_field": "2024-03-28 15:43:59 +0000",
       "fir_clearing": "2024-03-28 14:59:35 +0000",
+      "grassland": "2024-03-28 15:47:10 +0000",
+      "crag": "2024-03-28 15:45:11 +0000",
       "ominous_woods": "2024-03-28 15:42:56 +0000"
     },
     "done": false
@@ -462,6 +466,12 @@
     },
     "done": true
   },
+  "constructionwand:recipes/tools/stone_wand": {
+    "criteria": {
+      "has_item": "2024-03-28 15:49:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-03-28 15:11:21 +0000"
@@ -492,6 +502,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-03-28 15:48:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/fridge_dark": {
     "criteria": {
       "has_iron": "2024-03-28 15:11:21 +0000"
@@ -516,6 +532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-03-28 15:49:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-03-28 15:39:17 +0000"
@@ -525,6 +547,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-03-28 15:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-03-28 15:52:01 +0000"
     },
     "done": true
   },
@@ -561,6 +589,12 @@
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-03-28 15:32:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-03-28 15:52:01 +0000"
     },
     "done": true
   },
@@ -630,6 +664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-03-28 15:49:06 +0000"
+    },
+    "done": true
+  },
   "mining_dimension:recipes/decorations/teleporter": {
     "criteria": {
       "has_log": "2024-03-28 15:31:10 +0000"
@@ -669,6 +709,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/stone_gear": {
+    "criteria": {
+      "has_ingredient": "2024-03-28 15:49:06 +0000"
     },
     "done": true
   },
@@ -762,6 +808,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-03-28 15:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-03-28 15:49:07 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_grill": {
     "criteria": {
       "has_iron": "2024-03-28 15:11:21 +0000"
@@ -810,6 +868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-03-28 15:49:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2024-03-28 15:41:09 +0000"
@@ -834,6 +898,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-03-28 15:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-03-28 15:49:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-03-28 15:11:21 +0000"
@@ -846,9 +922,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-03-28 15:49:07 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/diamond_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2024-03-28 15:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-03-28 15:54:36 +0000"
     },
     "done": true
   },
@@ -867,6 +955,30 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-03-28 15:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-03-28 15:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-03-28 15:49:07 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/stone_torch": {
+    "criteria": {
+      "has_item": "2024-03-28 15:55:10 +0000"
     },
     "done": true
   },
@@ -897,6 +1009,12 @@
   "biomesoplenty:recipes/building_blocks/fir_slab": {
     "criteria": {
       "has_planks": "2024-03-28 15:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-03-28 15:52:01 +0000"
     },
     "done": true
   },
@@ -1068,9 +1186,33 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/quill": {
+    "criteria": {
+      "has_tag_a": "2024-03-28 15:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-03-28 15:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-03-28 15:49:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-03-28 15:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-03-28 15:54:36 +0000"
     },
     "done": true
   },
@@ -1132,13 +1274,20 @@
     "criteria": {
       "sweet_berries": "2024-03-28 15:41:11 +0000",
       "baked_potato": "2024-03-28 15:10:08 +0000",
-      "bread": "2024-03-28 15:13:41 +0000"
+      "bread": "2024-03-28 15:13:41 +0000",
+      "salmon": "2024-03-28 15:54:42 +0000"
     },
     "done": false
   },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-03-28 15:32:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-03-28 15:49:06 +0000"
     },
     "done": true
   },
@@ -1163,6 +1312,18 @@
   "enderio:recipes/building_blocks/dark_steel_bars": {
     "criteria": {
       "has_ingredient": "2024-03-28 15:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-03-28 15:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2024-03-28 15:54:36 +0000"
     },
     "done": true
   },
@@ -1208,6 +1369,18 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-03-28 15:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-03-28 15:49:07 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/torch": {
     "criteria": {
       "has_stick": "2024-03-28 15:31:10 +0000"
@@ -1217,6 +1390,12 @@
   "enderio:recipes/building_blocks/dark_steel_trapdoor": {
     "criteria": {
       "has_ingredient": "2024-03-28 15:35:00 +0000"
+    },
+    "done": true
+  },
+  "silentgems:recipes/food/iron_potato": {
+    "criteria": {
+      "has_item": "2024-03-28 15:54:36 +0000"
     },
     "done": true
   },
@@ -1250,6 +1429,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-03-28 15:48:46 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/fluidplus_module": {
     "criteria": {
       "ingot": "2024-03-28 15:11:21 +0000"
@@ -1268,8 +1453,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-03-28 15:49:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2024-03-28 15:51:23 +0000",
+      "minecraft:creeper": "2024-03-28 15:48:46 +0000",
       "minecraft:zombie": "2024-03-28 15:31:55 +0000"
     },
     "done": false
@@ -1295,6 +1488,12 @@
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-03-28 15:49:07 +0000"
     },
     "done": true
   },
@@ -1346,9 +1545,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-03-28 15:49:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_stairs": {
     "criteria": {
       "has_planks": "2024-03-28 15:31:15 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/stone_rod": {
+    "criteria": {
+      "has_item": "2024-03-28 15:49:06 +0000"
     },
     "done": true
   },
@@ -1385,6 +1596,12 @@
   "chiselsandbits:recipes/tools/bit_storage": {
     "criteria": {
       "has_i": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-03-28 15:49:07 +0000"
     },
     "done": true
   },
@@ -1484,6 +1701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-03-28 15:49:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-03-28 15:32:24 +0000"
@@ -1565,6 +1788,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-03-28 15:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-03-28 15:49:07 +0000"
     },
     "done": true
   },
@@ -1694,6 +1923,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_the_recipe": "2024-03-28 15:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-03-28 15:48:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2024-03-28 15:32:11 +0000"
@@ -1709,6 +1950,12 @@
   "biomesoplenty:recipes/redstone/fir_fence_gate": {
     "criteria": {
       "has_planks": "2024-03-28 15:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-03-28 15:52:01 +0000"
     },
     "done": true
   },
@@ -1733,6 +1980,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/low_covalence_dust": {
+    "criteria": {
+      "has_cobble": "2024-03-28 15:49:07 +0000"
     },
     "done": true
   },
@@ -1796,6 +2049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-03-28 15:55:10 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/toolbox": {
     "criteria": {
       "has_iron_ingot": "2024-03-28 15:11:21 +0000"
@@ -1817,6 +2076,24 @@
   "cfm:recipes/decorations/white_trampoline": {
     "criteria": {
       "has_iron": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2024-03-28 15:47:44 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2024-03-28 15:48:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-03-28 15:54:36 +0000"
     },
     "done": true
   },
@@ -1886,6 +2163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-03-28 15:52:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_grill": {
     "criteria": {
       "has_iron": "2024-03-28 15:11:21 +0000"
@@ -1916,6 +2199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-03-28 15:49:07 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/pressurized_fluid_tank": {
     "criteria": {
       "has_ingredient": "2024-03-28 15:11:21 +0000"
@@ -1934,9 +2223,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-03-28 15:48:46 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/counterplus_module": {
     "criteria": {
       "ingot": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-03-28 15:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-03-28 15:52:01 +0000"
     },
     "done": true
   },
