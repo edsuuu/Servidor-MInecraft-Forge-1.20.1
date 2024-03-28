@@ -393,6 +393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-03-28 15:38:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-03-28 15:31:10 +0000"
@@ -402,6 +408,18 @@
   "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
       "has_salmon": "2024-03-28 15:32:11 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/dark_steel_nugget": {
+    "criteria": {
+      "has_ingredient": "2024-03-28 15:35:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-03-28 15:34:53 +0000"
     },
     "done": true
   },
@@ -453,15 +471,33 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/dark_oak_barrel": {
+    "criteria": {
+      "has_dark_oak_plank": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-03-28 15:31:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-03-28 15:38:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/fridge_dark": {
     "criteria": {
       "has_iron": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_park_bench": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
     },
     "done": true
   },
@@ -477,6 +513,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-03-28 15:39:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-03-28 15:09:54 +0000"
@@ -486,6 +528,18 @@
   "alltheores:recipes/misc/iron_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_door": {
+    "criteria": {
+      "has_ingredient": "2024-03-28 15:35:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2024-03-28 15:34:53 +0000"
     },
     "done": true
   },
@@ -513,6 +567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-03-28 15:38:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2024-03-28 15:11:22 +0000"
@@ -531,6 +591,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_2": {
+    "criteria": {
+      "has_dark_oak_plank": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_1": {
+    "criteria": {
+      "has_dark_oak_plank": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_4": {
+    "criteria": {
+      "has_dark_oak_plank": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_3": {
+    "criteria": {
+      "has_dark_oak_plank": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
   "mining_dimension:recipes/decorations/teleporter": {
     "criteria": {
       "has_log": "2024-03-28 15:31:10 +0000"
@@ -546,6 +636,12 @@
   "cfm:recipes/decorations/white_grill": {
     "criteria": {
       "has_iron": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
     },
     "done": true
   },
@@ -585,6 +681,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/dark_oak_chest": {
+    "criteria": {
+      "has_dark_oak_plank": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
   "constructionwand:recipes/tools/diamond_wand": {
     "criteria": {
       "has_item": "2024-03-28 15:09:54 +0000"
@@ -594,6 +696,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2024-03-28 15:32:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
     },
     "done": true
   },
@@ -630,6 +738,12 @@
   "alltheores:recipes/misc/iron_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/dark_steel_sword": {
+    "criteria": {
+      "has_ingredient": "2024-03-28 15:35:00 +0000"
     },
     "done": true
   },
@@ -678,6 +792,12 @@
   "cfm:recipes/decorations/light_blue_trampoline": {
     "criteria": {
       "has_iron": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-03-28 15:38:56 +0000"
     },
     "done": true
   },
@@ -753,6 +873,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2024-03-28 15:38:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_slab": {
     "criteria": {
       "has_planks": "2024-03-28 15:31:15 +0000"
@@ -795,6 +921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-03-28 15:35:14 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/stick_iron": {
     "criteria": {
       "has_iron_ingot": "2024-03-28 15:11:21 +0000"
@@ -813,9 +945,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2024-03-28 15:38:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2024-03-28 15:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-03-28 15:35:17 +0000"
     },
     "done": true
   },
@@ -828,6 +972,12 @@
   "biomesoplenty:recipes/decorations/fir_sign": {
     "criteria": {
       "has_fir_planks": "2024-03-28 15:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
     },
     "done": true
   },
@@ -861,6 +1011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-03-28 15:11:21 +0000"
@@ -870,6 +1026,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/glider_wing": {
+    "criteria": {
+      "has_ingredient": "2024-03-28 15:35:00 +0000"
     },
     "done": true
   },
@@ -885,9 +1047,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-03-28 15:31:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-03-28 15:38:56 +0000"
     },
     "done": true
   },
@@ -918,6 +1092,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
     },
     "done": true
   },
@@ -955,6 +1135,24 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_bars": {
+    "criteria": {
+      "has_ingredient": "2024-03-28 15:35:00 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/dark_steel_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2024-03-28 15:35:00 +0000"
     },
     "done": true
   },
@@ -997,6 +1195,12 @@
   "immersiveengineering:recipes/misc/crafting/torch": {
     "criteria": {
       "has_stick": "2024-03-28 15:31:10 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_trapdoor": {
+    "criteria": {
+      "has_ingredient": "2024-03-28 15:35:00 +0000"
     },
     "done": true
   },
@@ -1066,6 +1270,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2024-03-28 15:11:21 +0000"
@@ -1087,6 +1297,12 @@
   "cfm:recipes/decorations/blue_trampoline": {
     "criteria": {
       "has_iron": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2024-03-28 15:35:00 +0000"
     },
     "done": true
   },
@@ -1129,6 +1345,18 @@
   "cfm:recipes/decorations/yellow_trampoline": {
     "criteria": {
       "has_iron": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-28 15:37:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2024-03-28 15:38:56 +0000"
     },
     "done": true
   },
@@ -1180,6 +1408,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-03-28 15:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-03-28 15:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-03-28 15:09:54 +0000"
@@ -1189,6 +1429,12 @@
   "enderio:recipes/misc/wood_gear_corner": {
     "criteria": {
       "has_ingredient": "2024-03-28 15:31:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
     },
     "done": true
   },
@@ -1288,6 +1534,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-03-28 15:09:54 +0000"
@@ -1336,6 +1594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-03-28 15:38:56 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/rough_rod": {
     "criteria": {
       "has_item": "2024-03-28 15:31:10 +0000"
@@ -1351,6 +1615,24 @@
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2024-03-28 15:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/emerald_from_shards": {
+    "criteria": {
+      "has_item": "2024-03-28 15:35:14 +0000"
     },
     "done": true
   },
@@ -1414,6 +1696,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/redstone_module": {
     "criteria": {
       "ingot": "2024-03-28 15:11:21 +0000"
@@ -1423,6 +1717,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/cold_fire_igniter": {
+    "criteria": {
+      "has_ingredient": "2024-03-28 15:35:00 +0000"
     },
     "done": true
   },
@@ -1444,9 +1744,27 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/dark_steel_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2024-03-28 15:35:00 +0000"
+    },
+    "done": true
+  },
   "rftoolsstorage:recipes/rftoolsstorage/dump_module": {
     "criteria": {
       "ingot": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/emerald_shard": {
+    "criteria": {
+      "has_item": "2024-03-28 15:35:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
     },
     "done": true
   },
@@ -1468,6 +1786,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_trampoline": {
     "criteria": {
       "has_iron": "2024-03-28 15:11:21 +0000"
@@ -1480,9 +1810,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/powerpack": {
+    "criteria": {
+      "has_leather": "2024-03-28 15:38:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_trampoline": {
     "criteria": {
       "has_iron": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-03-28 15:39:08 +0000"
     },
     "done": true
   },
@@ -1531,6 +1873,12 @@
   "cfm:recipes/decorations/orange_grill": {
     "criteria": {
       "has_iron": "2024-03-28 15:11:21 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_ladder": {
+    "criteria": {
+      "has_ingredient": "2024-03-28 15:35:00 +0000"
     },
     "done": true
   },
@@ -1591,6 +1939,12 @@
   "chiselsandbits:recipes/tools/chisel_stone": {
     "criteria": {
       "has_rod": "2024-03-28 15:31:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-03-28 15:34:53 +0000"
     },
     "done": true
   },
