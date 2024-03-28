@@ -67,8 +67,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "field": "2024-03-28 15:42:58 +0000",
       "coniferous_forest": "2024-03-28 15:00:32 +0000",
-      "fir_clearing": "2024-03-28 14:59:35 +0000"
+      "forested_field": "2024-03-28 15:43:59 +0000",
+      "fir_clearing": "2024-03-28 14:59:35 +0000",
+      "ominous_woods": "2024-03-28 15:42:56 +0000"
     },
     "done": false
   },
@@ -597,6 +600,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2024-03-28 15:41:15 +0000"
+    },
+    "done": false
+  },
   "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_2": {
     "criteria": {
       "has_dark_oak_plank": "2024-03-28 15:34:53 +0000"
@@ -798,6 +807,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-03-28 15:38:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-03-28 15:41:09 +0000"
     },
     "done": true
   },
@@ -1115,6 +1130,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2024-03-28 15:41:11 +0000",
       "baked_potato": "2024-03-28 15:10:08 +0000",
       "bread": "2024-03-28 15:13:41 +0000"
     },
