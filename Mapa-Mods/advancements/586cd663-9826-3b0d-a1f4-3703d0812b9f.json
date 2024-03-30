@@ -80,6 +80,7 @@
       "old_growth_woodland": "2024-03-29 21:11:56 +0000",
       "maple_woods": "2024-03-29 21:25:31 +0000",
       "crystalline_chasm": "2024-03-29 05:58:55 +0000",
+      "withered_abyss": "2024-03-29 23:56:58 +0000",
       "field": "2024-03-28 23:36:23 +0000",
       "orchard": "2024-03-28 23:23:55 +0000",
       "lavender_forest": "2024-03-29 04:40:17 +0000",
@@ -87,6 +88,7 @@
       "coniferous_forest": "2024-03-27 23:40:19 +0000",
       "forested_field": "2024-03-29 01:27:49 +0000",
       "redwood_forest": "2024-03-28 23:14:05 +0000",
+      "visceral_heap": "2024-03-29 23:02:57 +0000",
       "seasonal_orchard": "2024-03-29 04:35:33 +0000",
       "seasonal_forest": "2024-03-28 23:24:33 +0000",
       "rocky_rainforest": "2024-03-29 04:50:55 +0000",
@@ -10791,6 +10793,804 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-03-29 22:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-03-29 23:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-03-29 23:09:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-03-29 23:09:50 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/coating_smithing_template": {
+    "criteria": {
+      "has_item": "2024-03-29 23:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2024-03-29 23:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-03-29 23:14:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-03-29 23:22:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-03-29 23:23:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-03-29 23:23:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2024-03-29 23:23:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-03-29 23:23:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_table": {
+    "criteria": {
+      "has_planks": "2024-03-29 23:23:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-03-29 23:23:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-03-29 23:23:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2024-03-29 23:23:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2024-03-29 23:23:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-03-29 23:23:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-03-29 23:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-03-29 23:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-03-29 23:23:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2024-03-29 23:23:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-03-29 23:23:48 +0000"
+    },
+    "done": true
+  },
+  "botanypots:husbandry/get_hopper_pot": {
+    "criteria": {
+      "get_hopper_pot": "2024-03-29 23:32:44 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/peridot_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/sapphire_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/ruby_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/peridot_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iridium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/electrum_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/netherite_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/enderium_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/sapphire_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/signalum_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/invar_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/constantan_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lumium_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/ruby_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:57 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2024-03-29 23:34:57 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2024-03-29 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2024-03-29 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/limited_iron_barrel_4": {
+    "criteria": {
+      "has_limited_barrel_4": "2024-03-29 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sawdust": {
+    "criteria": {
+      "has_sawdust": "2024-03-29 23:43:25 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/paper_from_sawdust": {
+    "criteria": {
+      "has_sawdust": "2024-03-29 23:43:25 +0000"
+    },
+    "done": true
+  },
+  "mekanism:moving_blocks": {
+    "criteria": {
+      "cardboard_box": "2024-03-29 23:43:30 +0000"
+    },
+    "done": false
+  },
+  "inventorypets:biome": {
+    "criteria": {
+      "crafting_table": "2024-03-29 23:50:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2024-03-29 23:55:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-03-30 00:00:46 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/gem_of_eternal_density": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/combat/dm_helmet": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/harvest_goddess_band": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/dm_shears": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/energetic_alloy_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2024-03-30 03:34:39 +0000"
+    },
+    "done": true
+  },
+  "projecte:dark_matter_block": {
+    "criteria": {
+      "dm_block": "2024-03-30 03:54:28 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/energetic_alloy_nugget": {
+    "criteria": {
+      "has_ingredient": "2024-03-30 03:34:39 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/conversions/aeternalis_fuel_to_mobius_fuel": {
+    "criteria": {
+      "has_aeternalis_fuel": "2024-03-30 03:51:25 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/dm_pick": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/building_blocks/dark_matter_block": {
+    "criteria": {
+      "has_dark_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/dark_matter": {
+    "criteria": {
+      "has_aeternalis": "2024-03-30 03:51:13 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/dm_axe": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/void_ring": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/energetic_alloy_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2024-03-30 03:34:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall": {
+    "criteria": {
+      "has_cut_granite": "2024-03-30 03:55:42 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/zero_ring": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/red_matter_alt": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2024-03-30 03:38:44 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/conversions/dark_matter_block_deconstruct": {
+    "criteria": {
+      "has_dark_matter_block": "2024-03-30 03:54:28 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/dm_hoe": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/building_blocks/mobius_fuel_block": {
+    "criteria": {
+      "has_mobius_fuel": "2024-03-30 03:51:09 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/ignition_ring": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/volcanite_amulet": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/archangel_smite": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/swiftwolf_rending_gale": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/combat/dm_boots": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/mobius_fuel": {
+    "criteria": {
+      "has_alchemical_coal": "2024-03-30 03:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-03-30 03:42:20 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/red_matter": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/catalytic_lens": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/relay_mk1": {
+    "criteria": {
+      "has_diamond": "2024-03-30 03:53:07 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/black_hole_band": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/aeternalis_fuel": {
+    "criteria": {
+      "has_mobius_fuel": "2024-03-30 03:53:30 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/conversions/alchemical_coal_to_coal": {
+    "criteria": {
+      "has_alchemical_coal": "2024-03-30 03:50:55 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/building_blocks/alchemical_coal_block": {
+    "criteria": {
+      "has_alchemical_coal": "2024-03-30 03:50:49 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/catalytic_lens_alt": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:dark_matter": {
+    "criteria": {
+      "dm": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/silent_stone_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2024-03-30 03:41:41 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/combat/dm_leggings": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_destruction": {
+    "criteria": {
+      "has_item": "2024-03-30 03:53:07 +0000"
+    },
+    "done": true
+  },
+  "projecte:transmutation_tablet": {
+    "criteria": {
+      "trans_tablet": "2024-03-30 03:59:10 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/dm_hammer": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/combat/dm_sword": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "mekanism:portable_teleporter": {
+    "criteria": {
+      "portable_teleporter": "2024-03-30 03:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-03-30 03:53:07 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/conversions/diamond_to_emerald": {
+    "criteria": {
+      "has_diamond": "2024-03-30 03:53:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab": {
+    "criteria": {
+      "has_cut_granite": "2024-03-30 03:55:42 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/evertide_amulet": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/dm_furnace": {
+    "criteria": {
+      "has_dark_matter": "2024-03-30 03:54:28 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/building_blocks/aeternalis_fuel_block": {
+    "criteria": {
+      "has_aeternalis_fuel": "2024-03-30 03:51:13 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/portable_cell": {
+    "criteria": {
+      "pc_256k": "2024-03-30 03:31:07 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/conversions/diamond_to_gold_ingot": {
+    "criteria": {
+      "has_diamond": "2024-03-30 03:53:08 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/combat/dm_chestplate": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/collector_mk1": {
+    "criteria": {
+      "has_diamond": "2024-03-30 03:53:07 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/conversions/mobius_fuel_to_alchemical_coal": {
+    "criteria": {
+      "has_mobius_fuel": "2024-03-30 03:53:30 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/dm_shovel": {
+    "criteria": {
+      "has_matter": "2024-03-30 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs": {
+    "criteria": {
+      "has_cut_granite": "2024-03-30 03:55:42 +0000"
     },
     "done": true
   },
