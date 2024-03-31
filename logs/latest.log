@@ -1,128 +1,57 @@
-[30Mar2024 00:00:46.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlveeeSNTC has made the advancement [Suit Up]
-[30Mar2024 00:02:24.309] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/11511, l='ServerLevel[Mapa-Mods]', x=583.65, y=65.00, z=-575.19] died: Withering Archer was slain by AlveeeSNTC
-[30Mar2024 00:04:17.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlveeeSNTC moved too quickly! -108.62444773600487,-104.32132033501699,-808.1049559565115
-[30Mar2024 00:04:23.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlveeeSNTC lost connection: Disconnected
-[30Mar2024 00:04:23.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlveeeSNTC left the game
-[30Mar2024 00:06:41.897] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 lost connection: Disconnected
-[30Mar2024 00:06:41.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wN1212 left the game
-[30Mar2024 01:07:26.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lizacosx[/201.17.63.212:3328] logged in with entity id 12902 at (852.2080202838204, 142.0, 82.8276925874335)
-[30Mar2024 01:07:26.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizacosx joined the game
-[30Mar2024 01:07:26.935] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
-[30Mar2024 01:07:26.948] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
-[30Mar2024 01:07:28.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[30Mar2024 01:14:22.582] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/13034, l='ServerLevel[Mapa-Mods]', x=961.83, y=231.44, z=163.83] died: Honeyed Archer burned to death
-[30Mar2024 01:27:38.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizacosx has made the advancement [Who You Gonna Call?]
-[30Mar2024 01:28:19.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=551, y=63, z=224} BlockPos{x=550, y=61, z=224}
-[30Mar2024 01:52:31.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lizacosx lost connection: Timed out
-[30Mar2024 01:52:31.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizacosx left the game
-[30Mar2024 01:54:16.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lizacosx[/201.17.63.212:3371] logged in with entity id 20867 at (787.1504320280351, 121.0, 69.37740132760777)
-[30Mar2024 01:54:16.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizacosx joined the game
-[30Mar2024 01:54:16.660] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
-[30Mar2024 01:54:16.666] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
-[30Mar2024 01:55:06.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lizacosx moved too quickly! -5.233377505439648,0.0,8.640964118334523
-[30Mar2024 02:29:38.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wN1212[/187.95.221.126:49290] logged in with entity id 26582 at (886.3857492233952, 127.09044750094368, 94.34496673973347)
-[30Mar2024 02:29:38.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wN1212 joined the game
-[30Mar2024 02:29:38.855] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
-[30Mar2024 02:29:38.860] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
-[30Mar2024 02:29:50.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lizacosx lost connection: Timed out
-[30Mar2024 02:29:50.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizacosx left the game
-[30Mar2024 02:39:40.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wN1212 has made the advancement [Blaze Gold]
-[30Mar2024 02:39:42.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wN1212 has made the advancement [Strange Flora]
-[30Mar2024 02:39:44.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wN1212 has made the advancement [Hunt and Gather]
-[30Mar2024 02:39:49.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=986, y=180, z=197} BlockPos{x=987, y=179, z=197}
-[30Mar2024 02:39:58.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=986, y=179, z=198} BlockPos{x=986, y=180, z=199}
-[30Mar2024 02:40:42.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wN1212 has made the advancement [Who is Cutting Onions?]
-[30Mar2024 02:49:33.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wN1212 has made the advancement [Beam Me Up, Scotty]
-[30Mar2024 02:51:00.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lizacosx[/201.17.63.212:3367] logged in with entity id 29964 at (793.2022790903599, 120.0, 82.2576641857458)
-[30Mar2024 02:51:01.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizacosx joined the game
-[30Mar2024 02:51:01.332] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
-[30Mar2024 02:51:01.337] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
-[30Mar2024 02:51:22.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 moved too quickly! 9.392784717424774,0.0,-4.547512671050185
-[30Mar2024 02:53:58.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 moved too quickly! 0.7691736452793521,1.0,-12.502550368384789
-[30Mar2024 02:54:11.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 moved too quickly! 102.43222668484782,6.0,20.207372874805117
-[30Mar2024 02:56:46.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 moved too quickly! -100.25040265976656,-5.0,-31.829383781956665
-[30Mar2024 02:56:53.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizacosx has made the advancement [Beam Me Up, Scotty]
-[30Mar2024 02:57:12.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 moved too quickly! 105.2871092562574,6.0,26.26781444493085
-[30Mar2024 02:57:19.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 moved too quickly! -97.01937977905811,-5.0,-40.92707404868183
-[30Mar2024 02:57:19.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 moved too quickly! -97.01937977905811,-5.0,-40.92707404868183
-[30Mar2024 02:58:45.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 moved too quickly! -86.48026237625413,-15.0,27.19272216162304
-[30Mar2024 02:58:45.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 moved too quickly! -86.48026237625413,-15.0,27.19272216162304
-[30Mar2024 02:58:45.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 moved too quickly! -86.48026237625413,-15.0,27.19272216162304
-[30Mar2024 02:58:49.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 moved too quickly! 100.58044124822231,5.5,27.827217692716488
-[30Mar2024 03:00:50.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 moved too quickly! 26.398085968888154,-16.0,12.985734887963176
-[30Mar2024 03:00:52.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 moved too quickly! -101.0,-5.0,-33.0
-[30Mar2024 03:02:57.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 moved too quickly! 89.98374953701023,6.0,-8.114803932298827
-[30Mar2024 03:04:39.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 moved too quickly! 79.9853347494859,3.0,24.97569253252216
-[30Mar2024 03:08:55.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=974, y=-17, z=2} BlockPos{x=974, y=-18, z=2}
-[30Mar2024 03:08:55.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=974, y=-19, z=2} BlockPos{x=974, y=-18, z=2}
-[30Mar2024 03:10:51.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/34998, l='ServerLevel[Mapa-Mods]', x=1347.37, y=89.41, z=-19.10] died: Undead Knight suffocated in a wall
-[30Mar2024 03:11:35.309] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1211, y=-30, z=-59} BlockPos{x=1211, y=-28, z=-60}
-[30Mar2024 03:11:35.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1211, y=-29, z=-60} BlockPos{x=1211, y=-28, z=-60}
-[30Mar2024 03:11:36.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1211, y=-34, z=-59} BlockPos{x=1211, y=-33, z=-60}
-[30Mar2024 03:11:36.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1211, y=-34, z=-59} BlockPos{x=1211, y=-33, z=-60}
-[30Mar2024 03:11:36.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1211, y=-34, z=-59} BlockPos{x=1211, y=-34, z=-60}
-[30Mar2024 03:11:36.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1211, y=-34, z=-59} BlockPos{x=1211, y=-34, z=-60}
-[30Mar2024 03:11:52.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1211, y=-56, z=-57} BlockPos{x=1211, y=-55, z=-58}
-[30Mar2024 03:12:42.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1211, y=-57, z=-54} BlockPos{x=1211, y=-58, z=-54}
-[30Mar2024 03:21:52.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=864, y=134, z=85} BlockPos{x=864, y=135, z=85}
-[30Mar2024 03:21:52.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=864, y=134, z=85} BlockPos{x=864, y=133, z=85}
-[30Mar2024 03:21:52.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=864, y=132, z=85} BlockPos{x=864, y=133, z=85}
-[30Mar2024 03:26:46.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlveeeSNTC[/201.75.186.79:1445] logged in with entity id 38236 at (862.4849190438325, 140.0, 23.70320593515938)
-[30Mar2024 03:26:46.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlveeeSNTC joined the game
-[30Mar2024 03:26:46.971] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
-[30Mar2024 03:26:46.974] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
-[30Mar2024 03:30:28.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlveeeSNTC has made the advancement [Beam Me Up, Scotty]
-[30Mar2024 03:32:58.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 moved too quickly! 89.8581697363179,6.0,-30.314614474482482
-[30Mar2024 03:33:03.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 moved too quickly! -89.89462703003778,-5.0,-29.874306501124238
-[30Mar2024 03:37:42.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 lost connection: Disconnected
-[30Mar2024 03:37:42.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wN1212 left the game
-[30Mar2024 03:40:16.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wN1212[/187.95.221.126:51440] logged in with entity id 40792 at (852.9137168598431, 142.0, 78.90866350702869)
-[30Mar2024 03:40:16.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wN1212 joined the game
-[30Mar2024 03:40:16.346] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
-[30Mar2024 03:40:16.350] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
-[30Mar2024 03:42:20.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlveeeSNTC has made the advancement [Sneak 100]
-[30Mar2024 03:44:21.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lizacosx lost connection: Timed out
-[30Mar2024 03:44:21.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizacosx left the game
-[30Mar2024 03:52:27.109] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46d768ae[id=<null>,name=lizacosx,properties={},legacy=false] (/201.17.63.212:3299) lost connection: Disconnected
-[30Mar2024 03:52:36.070] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lizacosx[/201.17.63.212:3300] logged in with entity id 42631 at (878.9872446339509, 126.0, 97.4677348998564)
-[30Mar2024 03:52:36.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizacosx joined the game
-[30Mar2024 03:52:36.308] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
-[30Mar2024 03:52:36.311] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
-[30Mar2024 03:53:21.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lizacosx lost connection: Timed out
-[30Mar2024 03:53:21.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizacosx left the game
-[30Mar2024 03:54:14.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlveeeSNTC has made the advancement [All that Matters.]
-[30Mar2024 03:54:28.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlveeeSNTC has made the advancement [A block that Matters!]
-[30Mar2024 03:58:44.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/39651, l='ServerLevel[Mapa-Mods]', x=722.31, y=104.33, z=73.63] died: Honeyed Archer suffocated in a wall
-[30Mar2024 03:59:10.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlveeeSNTC has made the advancement [Transmutation on the go!]
-[30Mar2024 04:01:25.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlveeeSNTC lost connection: Disconnected
-[30Mar2024 04:01:25.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlveeeSNTC left the game
-[30Mar2024 04:01:31.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked wN1212: Kicked by an operator
-[30Mar2024 04:01:31.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 lost connection: Kicked by an operator
-[30Mar2024 04:01:31.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wN1212 left the game
-[30Mar2024 04:01:41.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[30Mar2024 04:01:41.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: exit<--[HERE]
-[30Mar2024 04:01:44.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[30Mar2024 04:01:44.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[30Mar2024 04:01:44.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[30Mar2024 04:01:44.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[30Mar2024 04:01:44.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/minecraft:overworld
-[30Mar2024 04:01:44.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/mining_dimension:mining
-[30Mar2024 04:01:44.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/allthemodium:the_beyond
-[30Mar2024 04:01:44.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/minecraft:the_end
-[30Mar2024 04:01:44.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/minecraft:the_nether
-[30Mar2024 04:01:44.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/allthemodium:mining
-[30Mar2024 04:01:44.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/allthemodium:the_other
-[30Mar2024 04:01:44.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/ae2:spatial_storage
-[30Mar2024 04:01:44.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Mapa-Mods): All chunks are saved
-[30Mar2024 04:01:44.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
-[30Mar2024 04:01:44.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
-[30Mar2024 04:01:44.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[30Mar2024 04:01:44.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[30Mar2024 04:01:44.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
-[30Mar2024 04:01:44.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
-[30Mar2024 04:01:44.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[30Mar2024 04:01:44.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[30Mar2024 04:01:44.846] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Unloading EnderChest Data
-[30Mar2024 04:01:44.846] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Finished Unloading EnderChest Data
-[30Mar2024 04:01:44.852] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[30Mar2024 04:01:44.862] [Server thread/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 1 block entries, 0 item entries
+[31Mar2024 00:23:57.585] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/15803, l='ServerLevel[Mapa-Mods]', x=922.16, y=163.85, z=67.65] died: Honeyed Archer suffocated in a wall
+[31Mar2024 00:26:16.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlveeeSNTC moved too quickly! -701.5,-71.0,-18.5
+[31Mar2024 00:26:20.603] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/16693, l='ServerLevel[Mapa-Mods]', x=916.87, y=165.27, z=66.46] died: Honeyed Archer suffocated in a wall
+[31Mar2024 00:41:41.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlveeeSNTC has made the advancement [An Extra Seedy Place]
+[31Mar2024 00:41:51.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlveeeSNTC lost connection: Disconnected
+[31Mar2024 00:41:51.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlveeeSNTC left the game
+[31Mar2024 00:41:52.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wN1212 lost connection: Disconnected
+[31Mar2024 00:41:52.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wN1212 left the game
+[31Mar2024 00:42:05.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31Mar2024 00:42:05.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Mar2024 00:42:05.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Mar2024 00:42:05.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Mar2024 00:42:05.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/minecraft:overworld
+[31Mar2024 00:42:05.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/allthemodium:the_beyond
+[31Mar2024 00:42:05.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/ad_astra:glacio_orbit
+[31Mar2024 00:42:05.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/mining_dimension:mining
+[31Mar2024 00:42:05.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/minecraft:the_end
+[31Mar2024 00:42:05.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/ad_astra:glacio
+[31Mar2024 00:42:05.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/ad_astra:moon
+[31Mar2024 00:42:05.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/ad_astra:moon_orbit
+[31Mar2024 00:42:05.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/twilightforest:twilight_forest
+[31Mar2024 00:42:05.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/ad_astra:mars_orbit
+[31Mar2024 00:42:05.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/ad_astra:venus_orbit
+[31Mar2024 00:42:05.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/ad_astra:mars
+[31Mar2024 00:42:05.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/ad_astra:earth_orbit
+[31Mar2024 00:42:05.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/minecraft:the_nether
+[31Mar2024 00:42:06.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/allthemodium:the_other
+[31Mar2024 00:42:06.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/ad_astra:mercury
+[31Mar2024 00:42:06.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/ad_astra:venus
+[31Mar2024 00:42:06.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/ad_astra:mercury_orbit
+[31Mar2024 00:42:06.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/allthemodium:mining
+[31Mar2024 00:42:06.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mapa-Mods]'/ae2:spatial_storage
+[31Mar2024 00:42:06.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Mapa-Mods): All chunks are saved
+[31Mar2024 00:42:06.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[31Mar2024 00:42:06.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[31Mar2024 00:42:06.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[31Mar2024 00:42:06.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Mar2024 00:42:06.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[31Mar2024 00:42:06.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[31Mar2024 00:42:06.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[31Mar2024 00:42:06.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[31Mar2024 00:42:06.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[31Mar2024 00:42:06.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[31Mar2024 00:42:06.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[31Mar2024 00:42:06.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[31Mar2024 00:42:06.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Mar2024 00:42:06.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[31Mar2024 00:42:06.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[31Mar2024 00:42:06.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[31Mar2024 00:42:06.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[31Mar2024 00:42:06.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[31Mar2024 00:42:06.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[31Mar2024 00:42:06.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Mar2024 00:42:06.195] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Unloading EnderChest Data
+[31Mar2024 00:42:06.196] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Finished Unloading EnderChest Data
+[31Mar2024 00:42:06.202] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[31Mar2024 00:42:06.214] [Server thread/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 1 block entries, 0 item entries
