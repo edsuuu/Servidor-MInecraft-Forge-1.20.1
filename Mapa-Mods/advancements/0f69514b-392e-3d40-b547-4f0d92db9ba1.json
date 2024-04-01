@@ -1443,6 +1443,7 @@
       "cooked_mutton": "2024-03-28 22:30:38 +0000",
       "cooked_beef": "2024-03-29 00:50:35 +0000",
       "baked_potato": "2024-03-28 23:52:18 +0000",
+      "beef": "2024-03-31 23:41:36 +0000",
       "bread": "2024-03-28 00:32:00 +0000",
       "golden_apple": "2024-03-29 16:49:46 +0000",
       "golden_carrot": "2024-03-29 04:05:58 +0000",
@@ -6897,75 +6898,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/grilled_salmon": {
-    "criteria": {
-      "has_salmon": "2024-03-29 21:49:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
-    "criteria": {
-      "has_item": "2024-03-29 21:59:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2024-03-29 22:05:12 +0000"
-    },
-    "done": true
-  },
-  "silentgems:recipes/food/uncooked_fishy_stew": {
-    "criteria": {
-      "has_item": "2024-03-29 21:49:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_fence": {
-    "criteria": {
-      "has_planks": "2024-03-29 22:38:22 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_light_gray": {
-    "criteria": {
-      "has_dyes/black": "2024-03-29 21:21:56 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_white": {
-    "criteria": {
-      "has_dyes/black": "2024-03-29 21:16:47 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/smart_gray": {
     "criteria": {
       "has_dyes/black": "2024-03-29 21:16:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_item": "2024-03-29 21:56:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_fire_dragon": "2024-03-29 21:59:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "wheat": "2024-03-29 22:09:38 +0000"
-    },
-    "done": false
-  },
-  "mekanism:hydrogen_powered_flight": {
-    "criteria": {
-      "jetpack": "2024-03-29 22:25:43 +0000"
     },
     "done": true
   },
@@ -6975,111 +6910,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2024-03-29 22:05:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_white_dye": "2024-03-29 21:16:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-03-29 21:21:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_sign": {
-    "criteria": {
-      "has_planks": "2024-03-29 22:38:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-03-29 22:38:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2024-03-29 21:49:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
-    "criteria": {
-      "has_dragonbone": "2024-03-29 22:05:12 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dye_light_gray_picket_fence": {
-    "criteria": {
-      "has_dye": "2024-03-29 21:21:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_candle": {
-    "criteria": {
-      "has_light_gray_dye": "2024-03-29 21:21:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
-    "criteria": {
-      "has_salmon": "2024-03-29 21:49:03 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/dense_smart_gray": {
     "criteria": {
       "has_dyes/black": "2024-03-29 21:16:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
-    "criteria": {
-      "has_dragonscales_bronze": "2024-03-29 22:05:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_boots": {
-    "criteria": {
-      "has_item": "2024-03-29 22:05:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-03-29 22:38:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_button": {
-    "criteria": {
-      "has_planks": "2024-03-29 22:38:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_leggings": {
-    "criteria": {
-      "has_item": "2024-03-29 22:05:12 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_light_gray": {
-    "criteria": {
-      "has_dyes/black": "2024-03-29 21:21:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/rotten_egg": {
-    "criteria": {
-      "bestiary": "2024-03-29 22:36:54 +0000"
     },
     "done": true
   },
@@ -7089,45 +6922,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2024-03-29 22:34:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2024-03-29 21:22:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2024-03-29 21:49:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-03-29 21:16:47 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/glass_gray": {
     "criteria": {
       "has_dyes/black": "2024-03-29 21:16:45 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_white": {
-    "criteria": {
-      "has_dyes/black": "2024-03-29 21:16:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2024-03-29 21:16:47 +0000"
     },
     "done": true
   },
@@ -7143,69 +6940,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_horn": {
-    "criteria": {
-      "has_item": "2024-03-29 22:05:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_stick": {
-    "criteria": {
-      "has_item": "2024-03-29 22:05:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_helmet": {
-    "criteria": {
-      "has_item": "2024-03-29 22:05:12 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_light_gray": {
-    "criteria": {
-      "has_dyes/black": "2024-03-29 21:21:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_flute": {
-    "criteria": {
-      "has_item": "2024-03-29 22:05:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-03-29 21:16:47 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/dye_gray_picket_fence": {
     "criteria": {
       "has_dye": "2024-03-29 21:16:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/nest": {
-    "criteria": {
-      "has_item": "2024-03-29 22:05:12 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dye_light_gray_picket_gate": {
-    "criteria": {
-      "has_dye": "2024-03-29 21:21:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_white_dye": "2024-03-29 21:16:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_bow": {
-    "criteria": {
-      "has_item": "2024-03-29 22:05:12 +0000"
     },
     "done": true
   },
@@ -7215,33 +6952,189 @@
     },
     "done": true
   },
-  "inventorypets:chicken": {
-    "criteria": {
-      "crafting_table": "2024-03-29 22:07:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2024-03-29 22:08:13 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/dense_covered_gray": {
     "criteria": {
       "has_dyes/black": "2024-03-29 21:16:45 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_hoe": {
+  "minecraft:recipes/building_blocks/dye_gray_carpet": {
     "criteria": {
-      "has_item": "2024-03-29 22:05:12 +0000"
+      "has_needed_dye": "2024-03-29 21:16:45 +0000"
     },
     "done": true
   },
-  "inventorypets:1": {
+  "ae2:recipes/misc/network/cables/dense_smart_white": {
     "criteria": {
-      "example": "2024-03-29 22:07:50 +0000"
+      "has_dyes/black": "2024-03-29 21:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2024-03-29 21:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-03-29 21:16:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_white": {
+    "criteria": {
+      "has_dyes/black": "2024-03-29 21:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-03-29 21:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-03-29 21:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-03-29 21:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-03-29 21:16:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_white": {
+    "criteria": {
+      "has_dyes/black": "2024-03-29 21:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2024-03-29 21:16:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_white": {
+    "criteria": {
+      "has_dyes/black": "2024-03-29 21:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-03-29 21:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-03-29 21:21:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_light_gray": {
+    "criteria": {
+      "has_dyes/black": "2024-03-29 21:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-03-29 21:21:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_light_gray_picket_fence": {
+    "criteria": {
+      "has_dye": "2024-03-29 21:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2024-03-29 21:21:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_light_gray": {
+    "criteria": {
+      "has_dyes/black": "2024-03-29 21:21:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_light_gray": {
+    "criteria": {
+      "has_dyes/black": "2024-03-29 21:21:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_light_gray_picket_gate": {
+    "criteria": {
+      "has_dye": "2024-03-29 21:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-03-29 21:21:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_light_gray": {
+    "criteria": {
+      "has_dyes/black": "2024-03-29 21:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-03-29 21:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-03-29 21:22:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-03-29 21:49:03 +0000"
+    },
+    "done": true
+  },
+  "silentgems:recipes/food/uncooked_fishy_stew": {
+    "criteria": {
+      "has_item": "2024-03-29 21:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-03-29 21:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2024-03-29 21:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-03-29 21:49:03 +0000"
     },
     "done": true
   },
@@ -7251,9 +7144,213 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+  "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
-      "has_white_dye": "2024-03-29 21:16:47 +0000"
+      "has_salmon": "2024-03-29 21:49:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2024-03-29 21:56:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2024-03-29 21:59:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2024-03-29 21:59:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2024-03-29 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2024-03-29 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2024-03-29 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2024-03-29 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2024-03-29 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2024-03-29 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2024-03-29 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2024-03-29 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2024-03-29 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2024-03-29 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2024-03-29 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2024-03-29 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2024-03-29 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-03-29 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2024-03-29 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2024-03-29 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-03-29 22:05:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-03-29 22:05:32 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:chicken": {
+    "criteria": {
+      "crafting_table": "2024-03-29 22:07:50 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:1": {
+    "criteria": {
+      "example": "2024-03-29 22:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-03-29 22:08:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2024-03-29 22:09:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-03-29 22:09:38 +0000"
+    },
+    "done": true
+  },
+  "mekanism:hydrogen_powered_flight": {
+    "criteria": {
+      "jetpack": "2024-03-29 22:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-03-29 22:34:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2024-03-29 22:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2024-03-29 22:38:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2024-03-29 22:38:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-03-29 22:38:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-03-29 22:38:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2024-03-29 22:38:22 +0000"
     },
     "done": true
   },
@@ -7269,81 +7366,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/smart_white": {
-    "criteria": {
-      "has_dyes/black": "2024-03-29 21:16:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-03-29 21:21:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_shovel": {
-    "criteria": {
-      "has_item": "2024-03-29 22:05:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2024-03-29 21:49:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2024-03-29 22:38:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_candle": {
-    "criteria": {
-      "has_white_dye": "2024-03-29 21:16:47 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_light_gray": {
-    "criteria": {
-      "has_dyes/black": "2024-03-29 21:21:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_axe": {
-    "criteria": {
-      "has_item": "2024-03-29 22:05:12 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_white": {
-    "criteria": {
-      "has_dyes/black": "2024-03-29 21:16:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_pickaxe": {
-    "criteria": {
-      "has_item": "2024-03-29 22:05:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-03-29 21:21:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2024-03-29 21:21:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_gray_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-03-29 21:16:45 +0000"
     },
     "done": true
   },
@@ -7353,27 +7378,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
+  "croptopia:recipes/beef_jerky": {
     "criteria": {
-      "has_needed_dye": "2024-03-29 21:16:47 +0000"
+      "has_beef": "2024-03-31 23:41:32 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_sword": {
+  "croptopia:recipes/pork_jerky": {
     "criteria": {
-      "has_item": "2024-03-29 22:05:12 +0000"
+      "has_the_recipe": "2024-03-31 23:41:32 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
-      "wheat": "2024-03-29 22:09:38 +0000"
+      "in_water": "2024-03-31 23:29:19 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+  "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
-      "has_item": "2024-03-29 22:05:12 +0000"
+      "in_water": "2024-03-31 23:29:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_beef": "2024-03-31 23:41:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2024-03-31 23:29:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2024-03-31 23:29:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/beef_jerky": {
+    "criteria": {
+      "has_the_recipe": "2024-03-31 23:41:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2024-03-31 23:41:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2024-03-31 23:41:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2024-03-31 23:41:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2024-03-31 23:41:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2024-03-31 23:29:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2024-03-31 23:29:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2024-03-31 23:41:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2024-03-31 23:29:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2024-03-31 23:29:19 +0000"
     },
     "done": true
   },
