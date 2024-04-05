@@ -2020,7 +2020,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2024-03-28 15:41:15 +0000",
-      "brown_mushroom": "2024-03-28 23:10:28 +0000"
+      "brown_mushroom": "2024-03-28 23:10:28 +0000",
+      "wheat": "2024-04-04 22:18:00 +0000"
     },
     "done": false
   },
@@ -11706,6 +11707,9 @@
       "darkwood_sapling": "2024-04-04 06:08:52 +0000",
       "towerwood": "2024-04-04 05:55:34 +0000",
       "twilight_oak_pressure_plate": "2024-04-01 22:27:47 +0000",
+      "twilight_oak_log": "2024-04-04 20:56:20 +0000",
+      "liveroot": "2024-04-04 20:56:22 +0000",
+      "rainbow_oak_sapling": "2024-04-04 20:54:09 +0000",
       "canopy_slab": "2024-04-04 04:59:43 +0000"
     },
     "done": false
@@ -13773,53 +13777,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
+  "twilightforest:twilight_hunter": {
     "criteria": {
-      "has_item": "2024-04-04 05:26:55 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/ur_ghast_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2024-04-04 05:57:27 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_merge": {
-    "criteria": {
-      "snow_queen": "2024-04-04 05:41:21 +0000",
-      "ur_ghast": "2024-04-04 05:56:38 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
-    "criteria": {
-      "has_item": "2024-04-04 05:49:08 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
-    "criteria": {
-      "has_item": "2024-04-04 05:55:34 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_knights": {
-    "criteria": {
-      "previous_progression": "2024-04-04 05:43:44 +0000",
-      "was_in_fight": "2024-04-04 05:53:14 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
-    "criteria": {
-      "has_item": "2024-04-04 05:55:34 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/mossy_underbrick": {
-    "criteria": {
-      "has_item": "2024-04-04 05:49:08 +0000"
+      "minotaur": "2024-04-04 05:23:24 +0000"
     },
     "done": true
   },
@@ -13829,9 +13789,9 @@
     },
     "done": true
   },
-  "twilightforest:twilight_hunter": {
+  "twilightforest:recipes/decorations/firefly_jar": {
     "criteria": {
-      "minotaur": "2024-04-04 05:23:24 +0000"
+      "has_item": "2024-04-04 05:24:12 +0000"
     },
     "done": true
   },
@@ -13847,10 +13807,9 @@
     },
     "done": true
   },
-  "twilightforest:progress_glacier": {
+  "twilightforest:recipes/food/food/smoked_meef": {
     "criteria": {
-      "previous_progression": "2024-04-04 05:36:44 +0000",
-      "was_in_fight": "2024-04-04 05:41:21 +0000"
+      "has_food": "2024-04-04 05:25:22 +0000"
     },
     "done": true
   },
@@ -13861,9 +13820,9 @@
     },
     "done": false
   },
-  "twilightforest:recipes/food/food/smoked_meef": {
+  "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
     "criteria": {
-      "has_food": "2024-04-04 05:25:22 +0000"
+      "has_item": "2024-04-04 05:26:55 +0000"
     },
     "done": true
   },
@@ -13873,9 +13832,22 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/packed_ice_from_freezing": {
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
     "criteria": {
-      "has_ice": "2024-04-04 05:40:23 +0000"
+      "has_item": "2024-04-04 05:27:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
+    "criteria": {
+      "has_item": "2024-04-04 05:27:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2024-04-04 05:36:44 +0000",
+      "was_in_fight": "2024-04-04 05:41:21 +0000"
     },
     "done": true
   },
@@ -13885,15 +13857,35 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2024-04-04 05:53:21 +0000"
-    },
-    "done": true
-  },
   "forbidden_arcanus:recipes/building_blocks/edelwood_ladder": {
     "criteria": {
       "has_rods/wooden": "2024-04-04 05:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/packed_ice_from_freezing": {
+    "criteria": {
+      "has_ice": "2024-04-04 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-04-04 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "snow_queen": "2024-04-04 05:41:21 +0000",
+      "ur_ghast": "2024-04-04 05:56:38 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2024-04-04 05:43:44 +0000",
+      "was_in_fight": "2024-04-04 05:53:14 +0000"
     },
     "done": true
   },
@@ -13903,9 +13895,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/packed_ice": {
+  "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
     "criteria": {
-      "has_ice": "2024-04-04 05:40:23 +0000"
+      "has_item": "2024-04-04 05:49:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/mossy_underbrick": {
+    "criteria": {
+      "has_item": "2024-04-04 05:49:08 +0000"
     },
     "done": true
   },
@@ -13916,21 +13914,310 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
+  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
     "criteria": {
-      "has_item": "2024-04-04 05:27:44 +0000"
+      "has_trophy": "2024-04-04 05:53:21 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/tools/charm_of_keeping_2": {
+  "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
     "criteria": {
-      "has_item": "2024-04-04 05:27:39 +0000"
+      "has_item": "2024-04-04 05:55:34 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/firefly_jar": {
+  "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
     "criteria": {
-      "has_item": "2024-04-04 05:24:12 +0000"
+      "has_item": "2024-04-04 05:55:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/ur_ghast_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-04-04 05:57:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sawdust": {
+    "criteria": {
+      "has_sawdust": "2024-04-04 20:37:59 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/paper_from_sawdust": {
+    "criteria": {
+      "has_sawdust": "2024-04-04 20:37:59 +0000"
+    },
+    "done": true
+  },
+  "mekanism:moving_blocks": {
+    "criteria": {
+      "unbox": "2024-04-04 20:38:25 +0000",
+      "cardboard_box": "2024-04-04 20:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_cabinet": {
+    "criteria": {
+      "has_log": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_table": {
+    "criteria": {
+      "has_planks": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_crate": {
+    "criteria": {
+      "has_log": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_park_bench": {
+    "criteria": {
+      "has_log": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_log": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_chair": {
+    "criteria": {
+      "has_log": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_blinds": {
+    "criteria": {
+      "has_log": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_crate": {
+    "criteria": {
+      "has_planks": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_chair": {
+    "criteria": {
+      "has_planks": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_coffee_table": {
+    "criteria": {
+      "has_log": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_park_bench": {
+    "criteria": {
+      "has_log": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_table": {
+    "criteria": {
+      "has_log": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_desk": {
+    "criteria": {
+      "has_planks": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk": {
+    "criteria": {
+      "has_log": "2024-04-04 20:55:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/cicada_jar": {
+    "criteria": {
+      "has_item": "2024-04-04 20:55:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2024-04-04 20:56:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2024-04-04 20:56:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/raw_ironwood": {
+    "criteria": {
+      "has_item": "2024-04-04 20:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-04-04 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-04 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-04 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2024-04-04 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-04 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-04-04 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-04-04 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-04 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/tablet": {
+    "criteria": {
+      "quartz": "2024-04-04 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-04 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-04-04 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-04-04 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-04-04 22:18:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-04-04 22:35:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_shulker_from_gold_chest": {
+    "criteria": {
+      "has_gold_chest": "2024-04-04 23:03:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_chest": {
+    "criteria": {
+      "has_gold_gold_chest": "2024-04-04 23:03:45 +0000"
     },
     "done": true
   },
