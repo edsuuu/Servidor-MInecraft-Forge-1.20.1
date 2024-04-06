@@ -20033,6 +20033,36 @@
     },
     "done": true
   },
+  "mekanism:waste_removal": {
+    "criteria": {
+      "radioactive_waste_barrel": "2024-04-05 03:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-04-05 04:35:05 +0000"
+    },
+    "done": true
+  },
+  "mekanism:yellow_cake": {
+    "criteria": {
+      "yellow_cake_uranium": "2024-04-05 05:03:08 +0000"
+    },
+    "done": true
+  },
+  "mekanism:personal_storage": {
+    "criteria": {
+      "storage": "2024-04-05 05:14:20 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpowder_from_dusts": {
+    "criteria": {
+      "has_sulfur": "2024-04-05 05:24:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dye_yellow_picket_gate": {
     "criteria": {
       "has_dye": "2024-04-05 05:26:40 +0000"
@@ -20045,45 +20075,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2024-04-05 04:35:05 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/gunpowder_from_dusts": {
-    "criteria": {
-      "has_sulfur": "2024-04-05 05:24:35 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/smart_yellow": {
     "criteria": {
       "has_dyes/black": "2024-04-05 05:26:40 +0000"
-    },
-    "done": true
-  },
-  "mekanism:yellow_cake": {
-    "criteria": {
-      "yellow_cake_uranium": "2024-04-05 05:03:08 +0000"
-    },
-    "done": true
-  },
-  "mekanism:mekasuit": {
-    "criteria": {
-      "full_set": "2024-04-05 06:16:09 +0000"
-    },
-    "done": true
-  },
-  "mekanism:polonium": {
-    "criteria": {
-      "pellet_polonium": "2024-04-05 05:53:34 +0000"
-    },
-    "done": true
-  },
-  "mekanism:waste_removal": {
-    "criteria": {
-      "radioactive_waste_barrel": "2024-04-05 03:46:19 +0000"
     },
     "done": true
   },
@@ -20093,21 +20087,171 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2024-04-05 05:26:40 +0000"
+    },
+    "done": true
+  },
+  "mekanism:polonium": {
+    "criteria": {
+      "pellet_polonium": "2024-04-05 05:53:34 +0000"
+    },
+    "done": true
+  },
   "mekanism:modification_station": {
     "criteria": {
       "modification_station": "2024-04-05 06:12:42 +0000"
     },
     "done": true
   },
-  "mekanism:personal_storage": {
+  "mekanism:mekasuit": {
     "criteria": {
-      "storage": "2024-04-05 05:14:20 +0000"
+      "full_set": "2024-04-05 06:16:09 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+  "ad_astra:recipes/misc/orange_industrial_lamp": {
     "criteria": {
-      "has_dyes/black": "2024-04-05 05:26:40 +0000"
+      "has_orange_industrial_lamp": "2024-04-06 04:23:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_orange_industrial_lamp": {
+    "criteria": {
+      "has_small_orange_industrial_lamp": "2024-04-06 04:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2024-04-06 04:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-04-06 04:23:34 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_orange": {
+    "criteria": {
+      "has_dyes/black": "2024-04-06 04:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-04-06 04:23:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_orange": {
+    "criteria": {
+      "has_dyes/black": "2024-04-06 04:23:34 +0000"
+    },
+    "done": true
+  },
+  "mekanism:painting_machine": {
+    "criteria": {
+      "painting_machine": "2024-04-06 04:02:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_orange_picket_fence": {
+    "criteria": {
+      "has_dye": "2024-04-06 04:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2024-04-06 04:23:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/yellow_industrial_lamp": {
+    "criteria": {
+      "has_yellow_industrial_lamp": "2024-04-06 04:23:35 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:nuggets/bronze]_nugget": "2024-04-06 03:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-04-06 04:23:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
+    "criteria": {
+      "has_small_yellow_industrial_lamp": "2024-04-06 04:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-04-06 04:23:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_orange_picket_gate": {
+    "criteria": {
+      "has_dye": "2024-04-06 04:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-04-06 04:23:35 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/decorations/deorum_soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-04-06 03:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-04-06 04:31:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_yellow": {
+    "criteria": {
+      "has_the_recipe": "2024-04-06 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "mekanism:plutonium": {
+    "criteria": {
+      "pellet_plutonium": "2024-04-06 05:19:05 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/blacksmith_gavel_head": {
+    "criteria": {
+      "has_clay_ball": "2024-04-06 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-04-06 04:23:34 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_orange": {
+    "criteria": {
+      "has_dyes/black": "2024-04-06 04:23:34 +0000"
     },
     "done": true
   },
