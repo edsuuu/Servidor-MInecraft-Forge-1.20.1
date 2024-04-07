@@ -20111,6 +20111,36 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/decorations/deorum_soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-04-06 03:43:29 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:nuggets/bronze]_nugget": "2024-04-06 03:46:56 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/blacksmith_gavel_head": {
+    "criteria": {
+      "has_clay_ball": "2024-04-06 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "mekanism:painting_machine": {
+    "criteria": {
+      "painting_machine": "2024-04-06 04:02:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_yellow": {
+    "criteria": {
+      "has_the_recipe": "2024-04-06 04:23:31 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/orange_industrial_lamp": {
     "criteria": {
       "has_orange_industrial_lamp": "2024-04-06 04:23:34 +0000"
@@ -20120,12 +20150,6 @@
   "ad_astra:recipes/misc/small_orange_industrial_lamp": {
     "criteria": {
       "has_small_orange_industrial_lamp": "2024-04-06 04:23:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_candle": {
-    "criteria": {
-      "has_yellow_dye": "2024-04-06 04:23:35 +0000"
     },
     "done": true
   },
@@ -20141,21 +20165,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-04-06 04:23:35 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/dense_smart_orange": {
     "criteria": {
       "has_dyes/black": "2024-04-06 04:23:34 +0000"
-    },
-    "done": true
-  },
-  "mekanism:painting_machine": {
-    "criteria": {
-      "painting_machine": "2024-04-06 04:02:34 +0000"
     },
     "done": true
   },
@@ -20171,21 +20183,45 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/yellow_industrial_lamp": {
-    "criteria": {
-      "has_yellow_industrial_lamp": "2024-04-06 04:23:35 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/bronze_ingot": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:nuggets/bronze]_nugget": "2024-04-06 03:46:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_orange_wool": {
     "criteria": {
       "has_needed_dye": "2024-04-06 04:23:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_orange_picket_gate": {
+    "criteria": {
+      "has_dye": "2024-04-06 04:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-04-06 04:23:34 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_orange": {
+    "criteria": {
+      "has_dyes/black": "2024-04-06 04:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2024-04-06 04:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-04-06 04:23:35 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/yellow_industrial_lamp": {
+    "criteria": {
+      "has_yellow_industrial_lamp": "2024-04-06 04:23:35 +0000"
     },
     "done": true
   },
@@ -20201,21 +20237,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/dye_orange_picket_gate": {
-    "criteria": {
-      "has_dye": "2024-04-06 04:23:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2024-04-06 04:23:35 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/decorations/deorum_soul_lantern": {
-    "criteria": {
-      "has_soul_torch": "2024-04-06 03:43:29 +0000"
     },
     "done": true
   },
@@ -20225,33 +20249,82 @@
     },
     "done": true
   },
-  "botania:recipes/misc/dye_yellow": {
-    "criteria": {
-      "has_the_recipe": "2024-04-06 04:23:31 +0000"
-    },
-    "done": true
-  },
   "mekanism:plutonium": {
     "criteria": {
       "pellet_plutonium": "2024-04-06 05:19:05 +0000"
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/misc/blacksmith_gavel_head": {
+  "mekanism:sps": {
     "criteria": {
-      "has_clay_ball": "2024-04-06 04:01:29 +0000"
+      "sps_casing": "2024-04-06 23:50:35 +0000",
+      "sps_port": "2024-04-06 23:59:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+  "mekanism:laser": {
     "criteria": {
-      "has_needed_dye": "2024-04-06 04:23:34 +0000"
+      "laser": "2024-04-07 00:12:47 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_covered_orange": {
+  "mekanism:simple_mass_storage": {
     "criteria": {
-      "has_dyes/black": "2024-04-06 04:23:34 +0000"
+      "basic_bin": "2024-04-07 01:02:15 +0000"
+    },
+    "done": true
+  },
+  "mekanism:seismic_vibrations": {
+    "criteria": {
+      "seismic_vibrator": "2024-04-07 01:07:31 +0000"
+    },
+    "done": false
+  },
+  "mekanism:automated_crafting": {
+    "criteria": {
+      "formulaic_assemblicator": "2024-04-07 01:11:12 +0000"
+    },
+    "done": true
+  },
+  "mekanism:machine_security": {
+    "criteria": {
+      "security_desk": "2024-04-07 01:15:27 +0000"
+    },
+    "done": true
+  },
+  "mekanism:alarm": {
+    "criteria": {
+      "industrial_alarm": "2024-04-07 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "mekanism:network_reader": {
+    "criteria": {
+      "network_reader": "2024-04-07 01:17:00 +0000"
+    },
+    "done": true
+  },
+  "mekanism:personal_radiation": {
+    "criteria": {
+      "use_dosimeter": "2024-04-07 01:17:31 +0000"
+    },
+    "done": true
+  },
+  "mekanism:environmental_radiation": {
+    "criteria": {
+      "use_geiger_counter": "2024-04-07 01:17:34 +0000"
+    },
+    "done": true
+  },
+  "mekanism:radiation_prevention": {
+    "criteria": {
+      "full_set": "2024-04-07 01:22:18 +0000"
+    },
+    "done": true
+  },
+  "mekanism:laser_death": {
+    "criteria": {
+      "death": "2024-04-07 05:42:44 +0000"
     },
     "done": true
   },
