@@ -1547,6 +1547,7 @@
       "minecraft:husk": "2024-03-29 16:47:38 +0000",
       "minecraft:ender_dragon": "2024-04-02 00:18:50 +0000",
       "minecraft:stray": "2024-03-28 23:56:48 +0000",
+      "minecraft:enderman": "2024-04-10 02:05:28 +0000",
       "minecraft:vex": "2024-04-01 20:08:30 +0000",
       "minecraft:zombie": "2024-03-28 15:31:55 +0000"
     },
@@ -2023,6 +2024,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2024-03-28 15:41:15 +0000",
+      "kelp": "2024-04-10 04:00:25 +0000",
       "brown_mushroom": "2024-03-28 23:10:28 +0000",
       "wheat": "2024-04-04 22:18:00 +0000"
     },
@@ -14851,112 +14853,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/egg_sandwich": {
-    "criteria": {
-      "has_fried_egg": "2024-04-07 06:33:31 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_planks": {
-    "criteria": {
-      "has_logs": "2024-04-07 07:07:29 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_lemon_coconut_bar": {
-    "criteria": {
-      "has_lemon": "2024-04-07 07:05:34 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/lemon_chicken": {
-    "criteria": {
-      "has_lemon": "2024-04-07 07:05:34 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/apricot_jam": {
-    "criteria": {
-      "has_apricot": "2024-04-07 07:11:28 +0000"
-    },
-    "done": true
-  },
-  "croptopia:food_press": {
-    "criteria": {
-      "food_press": "2024-04-07 06:35:00 +0000"
-    },
-    "done": true
-  },
-  "croptopia:eatcrafted": {
-    "criteria": {
-      "eat_crafted": "2024-04-07 07:23:27 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/orange_sapling": {
-    "criteria": {
-      "has_orange": "2024-04-07 07:04:58 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_peanut_butter": {
-    "criteria": {
-      "has_food_press": "2024-04-07 06:35:00 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/avocado_sapling": {
-    "criteria": {
-      "has_avocado": "2024-04-07 07:11:24 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/olive_oil": {
-    "criteria": {
-      "has_food_press": "2024-04-07 06:35:00 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/buttered_toast": {
-    "criteria": {
-      "has_toast": "2024-04-07 06:31:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-04-07 07:27:48 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_tree_plains": {
-    "criteria": {
-      "orange_sapling": "2024-04-07 07:09:58 +0000",
-      "peach_sapling": "2024-04-07 07:10:15 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/misc/lemon_sapling": {
-    "criteria": {
-      "has_lemon": "2024-04-07 07:05:34 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/bread_from_smoking": {
     "criteria": {
       "has_dough": "2024-04-07 06:27:00 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/lemonade": {
+  "create:recipes/misc/crafting/curiosities/cake": {
     "criteria": {
-      "has_lemon": "2024-04-07 07:05:34 +0000"
+      "has_item": "2024-04-07 06:27:00 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+  "farmersdelight:recipes/food/bread_from_smelting": {
     "criteria": {
-      "has_log": "2024-04-07 07:07:29 +0000"
+      "has_dough": "2024-04-07 06:27:00 +0000"
     },
     "done": true
   },
@@ -14966,15 +14877,63 @@
     },
     "done": true
   },
-  "croptopia:recipes/shaped_avocado_toast": {
+  "croptopia:recipes/buttered_toast": {
     "criteria": {
-      "has_avocado": "2024-04-07 07:11:24 +0000"
+      "has_toast": "2024-04-07 06:31:14 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/misc/starfruit_sapling": {
+  "croptopia:recipes/toast_with_jam": {
     "criteria": {
-      "has_starfruit": "2024-04-07 07:04:45 +0000"
+      "has_toast": "2024-04-07 06:31:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2024-04-07 06:33:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:food_press": {
+    "criteria": {
+      "food_press": "2024-04-07 06:35:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_peanut_butter": {
+    "criteria": {
+      "has_food_press": "2024-04-07 06:35:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/olive_oil": {
+    "criteria": {
+      "has_food_press": "2024-04-07 06:35:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/macaron": {
+    "criteria": {
+      "has_food_press": "2024-04-07 06:35:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/ground_pork": {
+    "criteria": {
+      "has_food_press": "2024-04-07 06:35:00 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/decorations/utrem_jar": {
+    "criteria": {
+      "has_glass/colorless": "2024-04-07 06:49:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-04-07 06:59:46 +0000"
     },
     "done": true
   },
@@ -14996,24 +14955,120 @@
     },
     "done": true
   },
-  "twilightforest:twilight_dinner": {
-    "criteria": {
-      "raw_meef": "2024-04-07 07:23:09 +0000",
-      "maze_wafer": "2024-04-07 07:28:11 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
     "criteria": {
       "has_mutton": "2024-04-07 06:59:54 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/curiosities/cake": {
+  "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
-      "has_item": "2024-04-07 06:27:00 +0000"
+      "has_mutton": "2024-04-07 06:59:54 +0000"
     },
     "done": true
+  },
+  "croptopia:recipes/limeade": {
+    "criteria": {
+      "has_lime": "2024-04-07 07:04:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/salsa": {
+    "criteria": {
+      "has_lime": "2024-04-07 07:04:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/lime_sapling": {
+    "criteria": {
+      "has_lime": "2024-04-07 07:04:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/starfruit_sapling": {
+    "criteria": {
+      "has_starfruit": "2024-04-07 07:04:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_sapling": {
+    "criteria": {
+      "has_orange": "2024-04-07 07:04:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_juice": {
+    "criteria": {
+      "has_orange": "2024-04-07 07:04:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/plum_sapling": {
+    "criteria": {
+      "has_plum": "2024-04-07 07:05:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_lemon_coconut_bar": {
+    "criteria": {
+      "has_lemon": "2024-04-07 07:05:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/lemon_chicken": {
+    "criteria": {
+      "has_lemon": "2024-04-07 07:05:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/lemon_sapling": {
+    "criteria": {
+      "has_lemon": "2024-04-07 07:05:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/lemonade": {
+    "criteria": {
+      "has_lemon": "2024-04-07 07:05:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_sapling": {
+    "criteria": {
+      "has_peach": "2024-04-07 07:05:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_jam": {
+    "criteria": {
+      "has_peach": "2024-04-07 07:05:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2024-04-07 07:07:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2024-04-07 07:07:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2024-04-07 07:07:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_tree_plains": {
+    "criteria": {
+      "orange_sapling": "2024-04-07 07:09:58 +0000",
+      "peach_sapling": "2024-04-07 07:10:15 +0000"
+    },
+    "done": false
   },
   "croptopia:gather_tree_all": {
     "criteria": {
@@ -15027,12 +15082,6 @@
     },
     "done": false
   },
-  "croptopia:recipes/quesadilla": {
-    "criteria": {
-      "has_avocado": "2024-04-07 07:11:24 +0000"
-    },
-    "done": true
-  },
   "croptopia:gather_tree_forest": {
     "criteria": {
       "pear_sapling": "2024-04-07 07:16:17 +0000",
@@ -15044,93 +15093,27 @@
     },
     "done": false
   },
-  "croptopia:recipes/misc/plum_sapling": {
-    "criteria": {
-      "has_plum": "2024-04-07 07:05:29 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/macaron": {
-    "criteria": {
-      "has_food_press": "2024-04-07 06:35:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bread_from_smelting": {
-    "criteria": {
-      "has_dough": "2024-04-07 06:27:00 +0000"
-    },
-    "done": true
-  },
   "croptopia:getsapling": {
     "criteria": {
       "has_sapling": "2024-04-07 07:09:58 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/limeade": {
+  "croptopia:recipes/misc/avocado_sapling": {
     "criteria": {
-      "has_lime": "2024-04-07 07:04:41 +0000"
+      "has_avocado": "2024-04-07 07:11:24 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_cyclops": {
+  "croptopia:recipes/shaped_avocado_toast": {
     "criteria": {
-      "killed_fire_dragon": "2024-04-07 06:59:46 +0000"
+      "has_avocado": "2024-04-07 07:11:24 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/misc/peach_sapling": {
+  "croptopia:recipes/quesadilla": {
     "criteria": {
-      "has_peach": "2024-04-07 07:05:42 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/toast_with_jam": {
-    "criteria": {
-      "has_toast": "2024-04-07 06:31:14 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/peach_jam": {
-    "criteria": {
-      "has_peach": "2024-04-07 07:05:42 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/salsa": {
-    "criteria": {
-      "has_lime": "2024-04-07 07:04:41 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/apricot_sapling": {
-    "criteria": {
-      "has_apricot": "2024-04-07 07:11:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2024-04-07 06:59:54 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/ground_pork": {
-    "criteria": {
-      "has_food_press": "2024-04-07 06:35:00 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/decorations/utrem_jar": {
-    "criteria": {
-      "has_glass/colorless": "2024-04-07 06:49:23 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/nectarine_sapling": {
-    "criteria": {
-      "has_nectarine": "2024-04-07 07:11:28 +0000"
+      "has_avocado": "2024-04-07 07:11:24 +0000"
     },
     "done": true
   },
@@ -15140,21 +15123,592 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+  "croptopia:recipes/misc/apricot_jam": {
     "criteria": {
-      "has_flower": "2024-04-07 07:07:18 +0000"
+      "has_apricot": "2024-04-07 07:11:28 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/misc/orange_juice": {
+  "croptopia:recipes/misc/apricot_sapling": {
     "criteria": {
-      "has_orange": "2024-04-07 07:04:58 +0000"
+      "has_apricot": "2024-04-07 07:11:28 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/misc/lime_sapling": {
+  "croptopia:recipes/misc/nectarine_sapling": {
     "criteria": {
-      "has_lime": "2024-04-07 07:04:41 +0000"
+      "has_nectarine": "2024-04-07 07:11:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "raw_meef": "2024-04-07 07:23:09 +0000",
+      "maze_wafer": "2024-04-07 07:28:11 +0000"
+    },
+    "done": false
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2024-04-07 07:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-04-07 07:27:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2024-04-10 01:21:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2024-04-10 01:21:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_particle_spawner": {
+    "criteria": {
+      "has_jar": "2024-04-10 01:45:22 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/blacksmith_gavel_head": {
+    "criteria": {
+      "has_clay_ball": "2024-04-10 01:46:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-04-10 02:05:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_item": "2024-04-10 02:05:37 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/white_flag": {
+    "criteria": {
+      "has_white_flag": "2024-04-10 02:17:40 +0000"
+    },
+    "done": true
+  },
+  "mekanism:radiation_prevention": {
+    "criteria": {
+      "full_set": "2024-04-10 02:32:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/cacophonium": {
+    "criteria": {
+      "has_item": "2024-04-10 02:32:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_pink": {
+    "criteria": {
+      "has_item": "2024-04-10 02:45:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pink_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-04-10 02:45:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/red_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-04-10 02:45:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red": {
+    "criteria": {
+      "has_item": "2024-04-10 02:45:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_pink_double": {
+    "criteria": {
+      "has_alt_item": "2024-04-10 02:45:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2024-04-10 02:45:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/apothecary_default": {
+    "criteria": {
+      "has_item": "2024-04-10 02:45:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2024-04-10 02:45:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2024-04-10 02:45:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/pink_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-04-10 02:45:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2024-04-10 02:45:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_pink": {
+    "criteria": {
+      "has_item": "2024-04-10 02:45:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pink_petal_block": {
+    "criteria": {
+      "has_item": "2024-04-10 02:45:59 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/pink_industrial_lamp": {
+    "criteria": {
+      "has_pink_industrial_lamp": "2024-04-10 02:46:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_pink_industrial_lamp": {
+    "criteria": {
+      "has_small_pink_industrial_lamp": "2024-04-10 02:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2024-04-10 02:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2024-04-10 02:47:30 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/pink_flag": {
+    "criteria": {
+      "has_pink_flag": "2024-04-10 02:47:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_sofa": {
+    "criteria": {
+      "has_wool": "2024-04-10 02:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2024-04-10 02:47:30 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_magenta_industrial_lamp": {
+    "criteria": {
+      "has_small_magenta_industrial_lamp": "2024-04-10 02:49:42 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/magenta_industrial_lamp": {
+    "criteria": {
+      "has_magenta_industrial_lamp": "2024-04-10 02:49:42 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:chiselsandbits/root": {
+    "criteria": {
+      "chisel": "2024-04-10 02:52:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_post": {
+    "criteria": {
+      "has_steel_fence": "2024-04-10 03:51:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fajitas": {
+    "criteria": {
+      "has_frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_copper_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-04-10 03:57:48 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_industrial_lamp": {
+    "criteria": {
+      "has_red_industrial_lamp": "2024-04-10 03:57:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-04-10 05:00:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_wellington": {
+    "criteria": {
+      "has_frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/strip_curtain": {
+    "criteria": {
+      "has_metal_rod": "2024-04-10 03:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:tabby": "2024-04-10 05:27:25 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_crystal_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-04-10 03:57:48 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_gold_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-04-10 03:57:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2024-04-10 03:36:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sample_drill": {
+    "criteria": {
+      "has_steel_fence": "2024-04-10 03:51:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cinnamon_roll": {
+    "criteria": {
+      "has_frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-04-10 05:00:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2024-04-10 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_fish_and_chips": {
+    "criteria": {
+      "has_frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-04-10 03:08:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/dough": {
+    "criteria": {
+      "has_cooking_pot": "2024-04-10 04:02:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/sunny_side_eggs": {
+    "criteria": {
+      "has_frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-04-10 03:57:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-04-10 03:42:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2024-04-10 04:48:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/baked_crepes": {
+    "criteria": {
+      "has_frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-04-10 03:39:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_item": "2024-04-10 04:04:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/noodles": {
+    "criteria": {
+      "has_cooking_pot": "2024-04-10 04:02:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-04-10 04:04:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tortilla": {
+    "criteria": {
+      "has_frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_iron_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-04-10 03:57:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pizza": {
+    "criteria": {
+      "has_frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/sweet_crepes": {
+    "criteria": {
+      "has_frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-04-10 03:57:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:pot": {
+    "criteria": {
+      "cooking_pot": "2024-04-10 04:02:59 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_barrel": {
+    "criteria": {
+      "has_stick_steel": "2024-04-10 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/dauphine_potatoes": {
+    "criteria": {
+      "has_frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/hydra_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-04-10 05:00:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/croque_madame": {
+    "criteria": {
+      "has_frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2024-04-10 04:04:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2024-04-10 03:26:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/croque_monsieur": {
+    "criteria": {
+      "has_frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ender_hand": {
+    "criteria": {
+      "has_item": "2024-04-10 04:15:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/quiche": {
+    "criteria": {
+      "has_frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-04-10 03:57:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/grilled_cheese": {
+    "criteria": {
+      "has_frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_the_recipe": "2024-04-10 04:15:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:mortar_and_pestle": {
+    "criteria": {
+      "mortar_and_pestle": "2024-04-10 04:04:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-04-10 04:04:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:frying_pan": {
+    "criteria": {
+      "frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2024-04-10 04:48:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/metal_ladder_none": {
+    "criteria": {
+      "has_metal_rod": "2024-04-10 03:51:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "trophy": "2024-04-10 05:00:29 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/hashed_brown": {
+    "criteria": {
+      "has_frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-04-10 03:57:48 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_red_industrial_lamp": {
+    "criteria": {
+      "has_small_red_industrial_lamp": "2024-04-10 03:57:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/the_big_breakfast": {
+    "criteria": {
+      "has_frying_pan": "2024-04-10 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_red": {
+    "criteria": {
+      "has_the_recipe": "2024-04-10 03:57:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/paprika": {
+    "criteria": {
+      "has_mortar_and_pestle": "2024-04-10 04:04:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2024-04-10 03:36:38 +0000"
     },
     "done": true
   },

@@ -74,12 +74,14 @@
       "maple_woods": "2024-04-01 23:48:58 +0000",
       "field": "2024-03-28 00:27:13 +0000",
       "orchard": "2024-04-01 23:51:21 +0000",
+      "lavender_forest": "2024-04-10 01:08:07 +0000",
       "mediterranean_forest": "2024-03-29 04:50:18 +0000",
       "coniferous_forest": "2024-03-27 23:42:35 +0000",
       "forested_field": "2024-03-28 00:34:56 +0000",
       "spider_nest": "2024-03-28 23:28:54 +0000",
       "redwood_forest": "2024-03-29 05:02:26 +0000",
       "seasonal_orchard": "2024-04-01 23:50:42 +0000",
+      "dune_beach": "2024-04-10 01:09:49 +0000",
       "seasonal_forest": "2024-04-01 23:49:31 +0000",
       "rocky_rainforest": "2024-03-29 04:52:00 +0000",
       "lavender_field": "2024-03-29 05:03:54 +0000",
@@ -20325,6 +20327,126 @@
   "mekanism:laser_death": {
     "criteria": {
       "death": "2024-04-07 05:42:44 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2024-04-10 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-04-10 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2024-04-10 01:09:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2024-04-10 01:09:25 +0000"
+    },
+    "done": true
+  },
+  "mekanism:quantum_entangloporter": {
+    "criteria": {
+      "quantum_entangloporter": "2024-04-10 01:40:34 +0000"
+    },
+    "done": true
+  },
+  "mekanism:stabilizing_chunks": {
+    "criteria": {
+      "upgrade_anchor": "2024-04-10 02:03:01 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/purple_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-04-10 02:13:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_purple": {
+    "criteria": {
+      "has_item": "2024-04-10 02:13:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_beef": "2024-04-10 02:20:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2024-04-10 02:20:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2024-04-10 02:20:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2024-04-10 02:20:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2024-04-10 02:20:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/cacophonium": {
+    "criteria": {
+      "has_item": "2024-04-10 02:24:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2024-04-10 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "mekanism:restrictive_item_transport": {
+    "criteria": {
+      "restrictive_transporter": "2024-04-10 03:33:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-04-10 03:08:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_item": "2024-04-10 03:08:47 +0000"
+    },
+    "done": true
+  },
+  "mekanism:diversion_item_transport": {
+    "criteria": {
+      "diversion_transporter": "2024-04-10 03:33:45 +0000"
+    },
+    "done": true
+  },
+  "mekanism:heat_transport": {
+    "criteria": {
+      "basic_thermodynamic_conductor": "2024-04-10 05:23:38 +0000"
     },
     "done": true
   },

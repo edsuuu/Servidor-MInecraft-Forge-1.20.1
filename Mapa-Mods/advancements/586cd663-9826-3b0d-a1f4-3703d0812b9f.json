@@ -66,6 +66,7 @@
       "shrubland": "2024-03-28 00:08:49 +0000",
       "rocky_shrubland": "2024-03-28 00:11:06 +0000",
       "scrubland": "2024-03-29 21:06:21 +0000",
+      "bayou": "2024-04-10 05:21:53 +0000",
       "erupting_inferno": "2024-03-29 05:22:39 +0000",
       "lush_savanna": "2024-04-01 03:33:44 +0000",
       "highland": "2024-03-28 00:19:46 +0000",
@@ -73,6 +74,7 @@
       "jade_cliffs": "2024-03-28 23:44:42 +0000",
       "clover_patch": "2024-03-28 22:58:56 +0000",
       "wetland": "2024-04-01 05:37:54 +0000",
+      "mystic_grove": "2024-04-10 03:47:19 +0000",
       "cold_desert": "2024-03-29 16:27:16 +0000",
       "old_growth_woodland": "2024-03-29 21:11:56 +0000",
       "maple_woods": "2024-03-29 21:25:31 +0000",
@@ -82,6 +84,7 @@
       "orchard": "2024-03-28 23:23:55 +0000",
       "lavender_forest": "2024-03-29 04:40:17 +0000",
       "mediterranean_forest": "2024-03-29 21:08:23 +0000",
+      "bog": "2024-04-10 05:11:03 +0000",
       "coniferous_forest": "2024-03-27 23:40:19 +0000",
       "forested_field": "2024-03-29 01:27:49 +0000",
       "dryland": "2024-04-01 03:23:36 +0000",
@@ -91,6 +94,7 @@
       "visceral_heap": "2024-03-29 23:02:57 +0000",
       "wasteland_steppe": "2024-04-01 03:11:54 +0000",
       "seasonal_orchard": "2024-03-29 04:35:33 +0000",
+      "dune_beach": "2024-04-10 00:55:27 +0000",
       "seasonal_forest": "2024-03-28 23:24:33 +0000",
       "volcano": "2024-04-01 03:59:59 +0000",
       "rocky_rainforest": "2024-03-29 04:50:55 +0000",
@@ -670,6 +674,7 @@
       "minecraft:beach": "2024-03-28 22:57:58 +0000",
       "minecraft:dark_forest": "2024-03-28 23:01:53 +0000",
       "minecraft:stony_peaks": "2024-04-01 03:14:03 +0000",
+      "minecraft:mangrove_swamp": "2024-04-10 05:20:35 +0000",
       "minecraft:sparse_jungle": "2024-03-29 22:14:57 +0000",
       "minecraft:river": "2024-03-27 23:42:50 +0000",
       "minecraft:lukewarm_ocean": "2024-03-29 22:12:50 +0000",
@@ -681,6 +686,7 @@
       "minecraft:swamp": "2024-04-01 05:36:45 +0000",
       "minecraft:cold_ocean": "2024-03-29 04:36:38 +0000",
       "minecraft:forest": "2024-03-28 00:22:13 +0000",
+      "minecraft:lush_caves": "2024-04-10 03:48:31 +0000",
       "minecraft:deep_cold_ocean": "2024-04-01 20:35:06 +0000",
       "minecraft:frozen_ocean": "2024-03-29 16:26:56 +0000",
       "minecraft:desert": "2024-04-01 03:21:06 +0000",
@@ -691,6 +697,7 @@
       "minecraft:old_growth_spruce_taiga": "2024-03-28 23:37:43 +0000",
       "minecraft:snowy_beach": "2024-03-29 16:40:11 +0000",
       "minecraft:warm_ocean": "2024-04-01 04:03:11 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-04-10 05:16:11 +0000",
       "minecraft:flower_forest": "2024-04-04 04:28:02 +0000",
       "minecraft:old_growth_birch_forest": "2024-03-28 00:21:56 +0000",
       "minecraft:deep_dark": "2024-03-29 00:55:15 +0000",
@@ -8320,6 +8327,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "glow_berries": "2024-04-10 03:57:06 +0000",
       "nether_wart": "2024-03-29 15:32:02 +0000",
       "wheat": "2024-03-29 22:09:27 +0000"
     },
@@ -12753,6 +12761,7 @@
       "dark_fence": "2024-04-01 02:20:47 +0000",
       "twilight_oak_log": "2024-04-04 06:20:10 +0000",
       "dark_log": "2024-04-04 05:14:42 +0000",
+      "giant_leaves": "2024-04-10 01:42:04 +0000",
       "rainbow_oak_sapling": "2024-04-04 06:20:10 +0000",
       "giant_log": "2024-04-04 06:36:10 +0000",
       "canopy_slab": "2024-04-04 04:59:32 +0000"
@@ -16063,6 +16072,7 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:calico": "2024-04-01 22:39:26 +0000",
+      "minecraft:all_black": "2024-04-10 05:27:33 +0000",
       "minecraft:british_shorthair": "2024-04-01 22:39:34 +0000"
     },
     "done": false
@@ -18276,9 +18286,10 @@
   },
   "twilightforest:progress_troll": {
     "criteria": {
-      "previous_progression": "2024-04-04 06:33:45 +0000"
+      "previous_progression": "2024-04-04 06:33:45 +0000",
+      "lamp": "2024-04-10 01:41:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/hydra_banner_pattern": {
     "criteria": {
@@ -18330,9 +18341,10 @@
   },
   "twilightforest:giants": {
     "criteria": {
+      "pickaxe": "2024-04-10 01:40:40 +0000",
       "giant": "2024-04-04 06:35:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/building_blocks/giant_cobblestone_to_cobblestone": {
     "criteria": {
@@ -18742,33 +18754,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
+  "croptopia:recipes/misc/roasted_sunflower_seeds": {
     "criteria": {
-      "has_item": "2024-04-07 02:33:42 +0000"
+      "has_sunflower": "2024-04-06 23:51:33 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_teal_chestplate": {
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
     "criteria": {
-      "has_item": "2024-04-07 02:26:27 +0000"
+      "has_the_recipe": "2024-04-07 00:15:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2024-04-07 00:15:34 +0000"
     },
     "done": true
   },
   "silentgems:recipes/building_blocks/rose_quartz_glass": {
     "criteria": {
       "has_item": "2024-04-07 01:30:10 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_sea_serpent": {
-    "criteria": {
-      "killed_fire_dragon": "2024-04-07 02:26:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_teal_boots": {
-    "criteria": {
-      "has_item": "2024-04-07 02:26:27 +0000"
     },
     "done": true
   },
@@ -18784,51 +18790,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
-    "criteria": {
-      "has_magnet_upgrade": "2024-04-07 00:15:34 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/raw_zinc_from_block": {
-    "criteria": {
-      "has_item": "2024-04-07 01:30:17 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/prism": {
-    "criteria": {
-      "has_item": "2024-04-07 02:26:02 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_trident": {
-    "criteria": {
-      "has_item": "2024-04-07 02:26:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_teal_helmet": {
-    "criteria": {
-      "has_item": "2024-04-07 02:26:27 +0000"
-    },
-    "done": true
-  },
   "silentgems:recipes/building_blocks/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2024-04-07 01:30:10 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/sea_serpent_arrow": {
-    "criteria": {
-      "has_item": "2024-04-07 02:26:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_teal_leggings": {
-    "criteria": {
-      "has_item": "2024-04-07 02:26:27 +0000"
     },
     "done": true
   },
@@ -18838,39 +18802,33 @@
     },
     "done": true
   },
+  "silentgems:recipes/building_blocks/rose_quartz_bricks": {
+    "criteria": {
+      "has_item": "2024-04-07 01:30:10 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_zinc_from_block": {
+    "criteria": {
+      "has_item": "2024-04-07 01:30:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2024-04-07 01:32:09 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+  "alltheores:recipes/misc/aluminum_nugget_from_ingot": {
     "criteria": {
-      "has_item": "2024-04-07 02:24:28 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
-    "criteria": {
-      "has_the_recipe": "2024-04-07 00:15:03 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/roasted_sunflower_seeds": {
-    "criteria": {
-      "has_sunflower": "2024-04-06 23:51:33 +0000"
+      "has_item": "2024-04-07 01:33:13 +0000"
     },
     "done": true
   },
   "croptopia:recipes/chicken_and_dumplings": {
     "criteria": {
       "has_chicken": "2024-04-07 02:23:50 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/aluminum_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2024-04-07 01:33:13 +0000"
     },
     "done": true
   },
@@ -18886,21 +18844,69 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
-    "criteria": {
-      "has_sea_serpent_scales_teal": "2024-04-07 02:26:27 +0000"
-    },
-    "done": true
-  },
-  "silentgems:recipes/building_blocks/rose_quartz_bricks": {
-    "criteria": {
-      "has_item": "2024-04-07 01:30:10 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/chicken_and_noodles": {
     "criteria": {
       "has_chicken": "2024-04-07 02:23:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2024-04-07 02:24:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2024-04-07 02:26:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-04-07 02:26:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2024-04-07 02:26:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2024-04-07 02:26:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-04-07 02:26:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2024-04-07 02:26:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-04-07 02:26:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2024-04-07 02:26:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2024-04-07 02:26:27 +0000"
     },
     "done": true
   },
@@ -18909,6 +18915,584 @@
       "location0": "2024-04-07 02:28:23 +0000"
     },
     "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2024-04-07 02:33:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-04-10 01:14:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2024-04-10 01:40:40 +0000",
+      "use_beans": "2024-04-10 01:41:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2024-04-10 01:40:53 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2024-04-10 01:40:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "previous_progression": "2024-04-10 01:41:01 +0000",
+      "plateau": "2024-04-10 01:42:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/giant_leaves_to_oak_leaves": {
+    "criteria": {
+      "has_item": "2024-04-10 01:42:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/smelted_cracked_castle_brick": {
+    "criteria": {
+      "has_item": "2024-04-10 01:43:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/bold_castle_brick_pillar": {
+    "criteria": {
+      "has_castle_brick": "2024-04-10 01:43:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/castle_brick_stairs": {
+    "criteria": {
+      "has_item": "2024-04-10 01:43:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/encased_castle_pillar": {
+    "criteria": {
+      "has_castle_brick": "2024-04-10 01:43:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/bold_castle_brick_tile": {
+    "criteria": {
+      "has_castle_brick": "2024-04-10 01:43:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/mossy_castle_brick": {
+    "criteria": {
+      "has_item": "2024-04-10 01:43:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/bold_castle_pillar_from_tile": {
+    "criteria": {
+      "has_castle_brick": "2024-04-10 01:43:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/thick_castle_brick": {
+    "criteria": {
+      "has_castle_brick": "2024-04-10 01:43:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/blasted_ironwood_ingot": {
+    "criteria": {
+      "has_item": "2024-04-10 02:23:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/smelted_ironwood_ingot": {
+    "criteria": {
+      "has_item": "2024-04-10 02:23:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-04-10 02:58:00 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-04-10 03:54:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_chair": {
+    "criteria": {
+      "has_log": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_axe": {
+    "criteria": {
+      "has_item": "2024-04-10 03:21:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2024-04-10 03:54:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_coffee_table": {
+    "criteria": {
+      "has_log": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2024-04-10 05:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_the_recipe": "2024-04-10 04:00:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_park_bench": {
+    "criteria": {
+      "has_log": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-04-10 03:49:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippogryph": {
+    "criteria": {
+      "tame_rat": "2024-04-10 04:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2024-04-10 05:07:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
+    "criteria": {
+      "has_item": "2024-04-10 03:21:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2024-04-10 03:26:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_chair": {
+    "criteria": {
+      "has_planks": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-04-10 03:54:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-04-10 03:54:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-04-10 03:15:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_cabinet": {
+    "criteria": {
+      "has_log": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
+    "criteria": {
+      "has_item": "2024-04-10 03:21:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2024-04-10 03:15:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_park_bench": {
+    "criteria": {
+      "has_log": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_sword": {
+    "criteria": {
+      "has_item": "2024-04-10 03:21:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_table": {
+    "criteria": {
+      "has_log": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2024-04-10 04:44:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_cabinet": {
+    "criteria": {
+      "has_log": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_desk": {
+    "criteria": {
+      "has_log": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
+    "criteria": {
+      "has_item": "2024-04-10 03:21:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_crate": {
+    "criteria": {
+      "has_planks": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2024-04-10 04:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-04-10 03:48:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
+    "criteria": {
+      "has_item": "2024-04-10 03:21:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_blinds": {
+    "criteria": {
+      "has_log": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:nuggets/silver]_nugget": "2024-04-10 04:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2024-04-10 03:26:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-04-10 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-04-10 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/dark_runic_glass": {
+    "criteria": {
+      "has_glass": "2024-04-10 04:12:38 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/pink_flag": {
+    "criteria": {
+      "has_pink_flag": "2024-04-10 05:07:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/lime_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-04-10 03:54:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_boots": {
+    "criteria": {
+      "has_item": "2024-04-10 03:21:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2024-04-10 03:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-04-10 03:18:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2024-04-10 03:15:54 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-04-10 03:54:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_jungle": {
+    "criteria": {
+      "has_item": "2024-04-10 03:21:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
+    "criteria": {
+      "has_item": "2024-04-10 03:21:29 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/deorum_glass": {
+    "criteria": {
+      "has_glass": "2024-04-10 04:12:38 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:chiselsandbits/root": {
+    "criteria": {
+      "chisel": "2024-04-10 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_yellow_double": {
+    "criteria": {
+      "has_item": "2024-04-10 05:19:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2024-04-10 03:26:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2024-04-10 03:21:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_crate": {
+    "criteria": {
+      "has_log": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_lime": {
+    "criteria": {
+      "has_item": "2024-04-10 03:54:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2024-04-10 03:54:21 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/runic_glass": {
+    "criteria": {
+      "has_glass": "2024-04-10 04:12:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_table": {
+    "criteria": {
+      "has_planks": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
+    "criteria": {
+      "has_item": "2024-04-10 03:21:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_sofa": {
+    "criteria": {
+      "has_wool": "2024-04-10 05:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-04-10 03:48:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_desk": {
+    "criteria": {
+      "has_planks": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2024-04-10 05:36:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2024-04-10 03:26:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-04-10 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-04-10 03:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2024-04-10 05:07:50 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/decorations/utrem_jar": {
+    "criteria": {
+      "has_glass/colorless": "2024-04-10 03:26:24 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2024-04-10 03:54:17 +0000"
+    },
+    "done": true
+  },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "fluffy_seeds": "2024-04-10 04:47:07 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
